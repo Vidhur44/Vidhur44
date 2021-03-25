@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Vidhur44/static/css/main.5a0b7fa1.chunk.css",
+    "main.js": "/Vidhur44/static/js/main.7c2bad31.chunk.js",
+    "main.js.map": "/Vidhur44/static/js/main.7c2bad31.chunk.js.map",
+    "runtime-main.js": "/Vidhur44/static/js/runtime-main.17e67b0a.js",
+    "runtime-main.js.map": "/Vidhur44/static/js/runtime-main.17e67b0a.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Vidhur44/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d6628020.chunk.js": "/Vidhur44/static/js/2.d6628020.chunk.js",
+    "static/js/2.d6628020.chunk.js.map": "/Vidhur44/static/js/2.d6628020.chunk.js.map",
+    "static/js/3.3821c821.chunk.js": "/Vidhur44/static/js/3.3821c821.chunk.js",
+    "static/js/3.3821c821.chunk.js.map": "/Vidhur44/static/js/3.3821c821.chunk.js.map",
+    "index.html": "/Vidhur44/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Vidhur44/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.5a0b7fa1.chunk.css.map": "/Vidhur44/static/css/main.5a0b7fa1.chunk.css.map",
+    "static/js/2.d6628020.chunk.js.LICENSE.txt": "/Vidhur44/static/js/2.d6628020.chunk.js.LICENSE.txt",
+    "static/media/DRAKE.92c6d4d8.png": "/Vidhur44/static/media/DRAKE.92c6d4d8.png",
+    "static/media/TOKYO.efd7a1a8.png": "/Vidhur44/static/media/TOKYO.efd7a1a8.png",
+    "static/media/c1.7326ebba.png": "/Vidhur44/static/media/c1.7326ebba.png",
+    "static/media/i15.bb9cdada.jpg": "/Vidhur44/static/media/i15.bb9cdada.jpg",
+    "static/media/i2.1420f0e8.jpg": "/Vidhur44/static/media/i2.1420f0e8.jpg",
+    "static/media/i20.a2ce16c6.jpeg": "/Vidhur44/static/media/i20.a2ce16c6.jpeg",
+    "static/media/i20.f0e70077.jpg": "/Vidhur44/static/media/i20.f0e70077.jpg",
+    "static/media/i31.01ef2fb7.jpeg": "/Vidhur44/static/media/i31.01ef2fb7.jpeg",
+    "static/media/i33.aaed4cbe.jpeg": "/Vidhur44/static/media/i33.aaed4cbe.jpeg",
+    "static/media/i35.85ab9770.jpeg": "/Vidhur44/static/media/i35.85ab9770.jpeg",
+    "static/media/i37.6ceb1bd2.jpeg": "/Vidhur44/static/media/i37.6ceb1bd2.jpeg",
+    "static/media/vidhur.075f97a4.png": "/Vidhur44/static/media/vidhur.075f97a4.png",
+    "static/media/wp4.c11844a7.jpeg": "/Vidhur44/static/media/wp4.c11844a7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17e67b0a.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d6628020.chunk.js",
+    "static/css/main.5a0b7fa1.chunk.css",
+    "static/js/main.7c2bad31.chunk.js"
+  ]
+}
